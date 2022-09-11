@@ -3,7 +3,7 @@ Here we'll upload solutions for recent codeforces contests. Open to contribute, 
 <br>
 <br>
 Steps to follow while uploading your solution:
-- Go to the Rounds folder (if the one you want isn't there , create one)
+- Navigate to the Rounds folder (if the one you want isn't there , create one)
 - Create a folder for each problem if not present named "Problem X- Problem name"
 - Upload your solution (source code with comments would work) 
 - Make sure you file name contains language details too if you're uploading doc/pdf.
